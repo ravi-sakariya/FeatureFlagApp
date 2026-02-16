@@ -20,6 +20,10 @@ There is always scope to improve code and ultimetly it improve performace as wel
 We can use read only DB context.
 We can improve DB schema because it is not production ready schema.
 
+**Tradeoffs you chose (and why)**
+DB schema is not proper we can make seperate tables for users and groups that map to features. This is due to time limit.
+Here In Web API project I added Database reference ideally it not good practice. This is due to time limit.
+
 **AI Tool**
 In given time honestly I can not complete this wihtout help of AI tool.
 I take help of copilot to take some code snippet and made changes as per requirement.
