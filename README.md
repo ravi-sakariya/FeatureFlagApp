@@ -1,11 +1,11 @@
 **How to run it:**
 
-    **API**
+**API**
     It is .Net core(8.0) Web API project so you can just run from cli or visual studio and verify from swagger at below service URL:
     You will see different endpoints and also I have added working enpoint screen shot along with repo for your reference only.
       **https://localhost:7189/swagger/index.html**
     
-    **Database:**
+**Database:**
     I also provide provided Microsoft SQL script (Script.sql) to create database and table to read/write feature flag details.
 
 
